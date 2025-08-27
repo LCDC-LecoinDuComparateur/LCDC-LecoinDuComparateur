@@ -19,7 +19,7 @@
 
 -   🔭 Je travaille actuellement sur la création de tutoriels et de comparaisons sur l'IA, le développement web, la cybersécurité et les programmes de parrainage.
 -   🌱 J'apprends en ce moment une IA autonome et multi-plateforme capable de comprendre tout besoin humain et de l'aider à exécuter des tâches dans toutes sortes d'environnements, une sorte de "Jarvis".
--   👯 Je cherche à collaborer sur des projets innovants et j'apprécie tout soutien pour faire avancer mes recherches. Pour soutenir mes projets, visitez ma page et <a href="https://camille357.github.io/Camille357/donations/donate.html" target="_blank" rel=
+-   👯 Je cherche à collaborer sur des projets innovants et j'apprécie tout soutien pour faire avancer mes recherches. Pour soutenir mes projets, visitez ma page et <a href="https://github.com/LCDC-LecoinDuComparateur/LCDC-LecoinDuComparateur/tree/main/donations/donate.html" target="_blank" rel=
      "noopener noreferrer">Soutenez mon travail</a>.
 -   💬 Demandez-moi n'importe quoi sur la structure d'un projet pour effectuer sa création, l'autonomie à domicile, la domotique, la programmation.
 -   📫 Comment me joindre : lecoinducomparateur@tutamail.com.
@@ -63,6 +63,6 @@ Je suis à la recherche de conseils et d'avis, notamment pour trouver un modèle
 ### Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camille357&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiques GitHub de Camille357" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camille357&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés par Camille357" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Camille357&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiques GitHub de LCDC-LecoinDuComparateur" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCDC-LecoinDuComparateur&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages les plus utilisés par LCDC-LecoinDuComparateur" />
 </p>
